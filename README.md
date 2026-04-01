@@ -34,60 +34,6 @@ O K-means é amplamente utilizado para segmentação de dados, identificação d
 | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white) | Latest | Gráficos estatísticos |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white) | Latest | Ambiente interativo |
 
-##  Conceitos-Chave
-
-### O que é K-means?
-
-K-means é um algoritmo de clustering que:
-- Agrupa dados em **K clusters** distintos
-- Minimiza a variância intra-cluster (coesão)
-- Maximiza a distância inter-cluster (separação)
-- Utiliza centróides como representantes dos clusters
-- Converge iterativamente até estabilidade
-
-### Aplicações Práticas
-
--  Segmentação de clientes
--  Análise de mercado
--  Agrupamento de documentos
--  Compressão de imagens
--  Identificação de padrões
--  Detecção de anomalias
-
-## Conteúdo do Projeto
-
-### Etapas Implementadas
-
-1. **Carregamento e Exploração de Dados**
-   - Importação de dados
-   - Análise exploratória (EDA)
-   - Verificação de valores faltantes
-
-2. **Pré-processamento de Dados**
-   - Normalização/Padronização
-   - Tratamento de outliers
-   - Seleção de features relevantes
-
-3. **Determinação do Número Ótimo de Clusters**
-   - Método do Cotovelo (Elbow Method)
-   - Silhueta (Silhouette Score)
-   - Análise visual
-
-4. **Treinamento do K-means**
-   - Inicialização dos centróides
-   - Ajustes de hiperparâmetros
-   - Convergência do modelo
-
-5. **Análise e Visualização**
-   - Visualização de clusters
-   - Gráficos de dispersão
-   - Heatmaps de centróides
-
-6. **Avaliação de Resultados**
-   - Silhouette Score
-   - Calinski-Harabasz Index
-   - Davies-Bouldin Index
-   - Interpretação dos clusters
 
 ##  Como Executar
 
