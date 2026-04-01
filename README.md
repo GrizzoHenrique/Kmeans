@@ -1,4 +1,4 @@
-# 🎯 K-means Clustering
+# K-means Clustering
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -6,13 +6,13 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 📖 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de **praticar e dominar o algoritmo K-means**, um dos métodos de aprendizado não supervisionado (unsupervised learning) mais importantes em Machine Learning e Data Science.
 
 O K-means é amplamente utilizado para segmentação de dados, identificação de padrões e agrupamento automático de observações em clusters homogêneos, sendo fundamental para análise exploratória e pré-processamento de dados.
 
-## 🎯 Objetivos
+##  Objetivos
 
 - ✓ Compreender os fundamentos do algoritmo **K-means**
 - ✓ Implementar clustering com **Scikit-Learn**
@@ -22,7 +22,7 @@ O K-means é amplamente utilizado para segmentação de dados, identificação d
 - ✓ Aplicar técnicas de pré-processamento de dados
 - ✓ Praticar análise exploratória com dados não-rotulados
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Tecnologia | Versão | Propósito |
 |-----------|--------|----------|
@@ -34,7 +34,7 @@ O K-means é amplamente utilizado para segmentação de dados, identificação d
 | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white) | Latest | Gráficos estatísticos |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white) | Latest | Ambiente interativo |
 
-## 📚 Conceitos-Chave
+##  Conceitos-Chave
 
 ### O que é K-means?
 
@@ -47,14 +47,14 @@ K-means é um algoritmo de clustering que:
 
 ### Aplicações Práticas
 
-- 👥 Segmentação de clientes
-- 📊 Análise de mercado
-- 🎯 Agrupamento de documentos
-- 🖼️ Compressão de imagens
-- 📈 Identificação de padrões
-- 🔍 Detecção de anomalias
+-  Segmentação de clientes
+-  Análise de mercado
+-  Agrupamento de documentos
+-  Compressão de imagens
+-  Identificação de padrões
+-  Detecção de anomalias
 
-## 📊 Conteúdo do Projeto
+## Conteúdo do Projeto
 
 ### Etapas Implementadas
 
@@ -89,7 +89,7 @@ K-means é um algoritmo de clustering que:
    - Davies-Bouldin Index
    - Interpretação dos clusters
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 - Python 3.7+
